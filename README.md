@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wassimouertany" alt="wassimouertany" /></a> </p>
 
-- 🔭 I’m currently working on [nclusiveJobs — an AI recruitment platform (RAG)](https://github.com/wassimouertany/InclusiveJobs)
+- 🔭 I’m currently working on [InclusiveJobs — an AI recruitment platform (RAG)](https://github.com/wassimouertany/InclusiveJobs)
 
 - 🌱 I’m currently learning **LLMs, RAG systems, AI agents, and deep learning**
 
