@@ -27,4 +27,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wassimouertany&show_icons=true&locale=en" alt="wassimouertany" /></p>
 
-<img src="https://raw.githubusercontent.com/wassimouertany/wassimouertany/output/snake.svg" alt="Snake animation" />
